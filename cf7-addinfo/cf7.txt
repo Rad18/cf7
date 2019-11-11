@@ -1,0 +1,3 @@
+on_sent_ok: "location = '/thanks';"
+on_sent_ok: "console.log('RU Contact form sent ok');"
+on_submit: "console.log('RU Contact form submit ok');"
